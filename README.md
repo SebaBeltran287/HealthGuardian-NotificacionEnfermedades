@@ -8,6 +8,5 @@ Este es un proyecto de aplicación diseñado para monitorear y notificar a los u
 - **Mapas de calor** que muestran las áreas de mayor incidencia.
 
 ## Estructura del Repositorio
-- **Documentación**: Toda la información detallada del proyecto.
-- **Imágenes**: Diagramas y mockups de la aplicación.
+- **Documentación**: Toda la información detallada de cada etapa del proyecto incluyendo interfaz.
 
